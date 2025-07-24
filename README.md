@@ -9,8 +9,6 @@ The game consists of simple Python code. When we launch the game, we are greeted
 
 - <b>Python</b>
 
-<h2>Program Demonstration:</h2>
-
 <h2>Program Demo:</h2>
 
 <p align="center">
